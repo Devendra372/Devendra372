@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Devendra372
+- 👋 Hi, I’m Devendra
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me mail - @devendramukane@gmail.com
